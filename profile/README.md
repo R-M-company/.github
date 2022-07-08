@@ -89,13 +89,13 @@ CSS
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40"/>
 <p align="center">
 SASS
 </p>
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="80"/>
+<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="40"/>
 <p align="center">
 Webpack
 </p>
