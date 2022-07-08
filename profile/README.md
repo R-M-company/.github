@@ -1,7 +1,7 @@
 <img src="https://github.com/R-M-company/.github/blob/main/profile/logo.png?raw=true" width="200">
 
-## R&M
-### Where expertise is built upon collaboration
+## R&M ❤
+### Where expertise is built upon collaboration 🤝
 
 ##### What we learn and use 🛠
 <table>
